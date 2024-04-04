@@ -10,6 +10,9 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNngxbG50a2EzeWJtYm01aGU5OTg0bGFrMjR5c3RhbDU0dzR1MTdiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jXtdnZlhK7Fbfo4Ioc/giphy.gif" width="600" height="300"/>
 </div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hitisha-G&theme=gruvbox" width="500" height="200"/>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hitisha-G&theme=dracula)](https://github.com/Hitisha-G/github-readme-activity-graph)
 
