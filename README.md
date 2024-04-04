@@ -20,6 +20,8 @@
 <br>
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVkdW9hcjVlOHJsMTdiM3M3ZzNiYmpvaXl2aHZ1dmdkaHhlNTJoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" height="180em"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVkdW9hcjVlOHJsMTdiM3M3ZzNiYmpvaXl2aHZ1dmdkaHhlNTJoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" height="180em"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVkdW9hcjVlOHJsMTdiM3M3ZzNiYmpvaXl2aHZ1dmdkaHhlNTJoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" height="180em"/>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
