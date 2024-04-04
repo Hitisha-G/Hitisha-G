@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hitisha Gohil</h1>
 
-- 📫 How to reach me **h.gohil2104@gmail.com**
-
   
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNngxbG50a2EzeWJtYm01aGU5OTg0bGFrMjR5c3RhbDU0dzR1MTdiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jXtdnZlhK7Fbfo4Ioc/giphy.gif" width="600" height="300"/>
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hitisha-G&theme=gruvbox" height="180em"/>
 </div>
