@@ -13,6 +13,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hitisha-G&theme=dracula)](https://github.com/Hitisha-G/github-readme-activity-graph)
 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hitisha-G&theme=gruvbox" height="180em" />
+
+
 <div> <a href="https://twitter.com/hitisha_gohil" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Hitisha Gohil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Hitisha-G" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
