@@ -7,9 +7,10 @@
 - 📫 How to reach me **h.gohil2104@gmail.com**
 
   
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNngxbG50a2EzeWJtYm01aGU5OTg0bGFrMjR5c3RhbDU0dzR1MTdiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jXtdnZlhK7Fbfo4Ioc/giphy.gif" width="600" height="300"/>
+</div>
 
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/jXtdnZlhK7Fbfo4Ioc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KungFuPanda4-dreamworks-kung-fu-panda-4-jXtdnZlhK7Fbfo4Ioc">via GIPHY</a></p>
 <div> <a href="https://twitter.com/hitisha_gohil" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Hitisha Gohil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Hitisha-G" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
